@@ -1,0 +1,74 @@
+[
+    {
+      "restaurant_name": "Golden Gate Bistro",
+      "city": "San Francisco",
+      "cuisine": "Italian",
+      "description": "Authentic Italian restaurant known for handmade pasta, wood-fired pizza, and an extensive wine list.",
+      "location": "Downtown San Francisco",
+      "opening_hours": "11:00-22:30",
+      "average_price": "$25-$40"
+    },
+    {
+      "restaurant_name": "Pacific Sushi House",
+      "city": "San Francisco",
+      "cuisine": "Japanese",
+      "description": "Premium sushi restaurant offering fresh sashimi, omakase experiences, and traditional Japanese dishes.",
+      "location": "Market Street",
+      "opening_hours": "12:00-23:00",
+      "average_price": "$40-$70"
+    },
+    {
+      "restaurant_name": "Bay Burger Grill",
+      "city": "San Francisco",
+      "cuisine": "American",
+      "description": "Casual burger restaurant famous for gourmet burgers, craft beer, and late night dining.",
+      "location": "Fisherman's Wharf",
+      "opening_hours": "10:00-01:00",
+      "average_price": "$15-$25"
+    },
+    {
+      "restaurant_name": "Spice Garden",
+      "city": "San Francisco",
+      "cuisine": "Indian",
+      "description": "Traditional Indian restaurant serving biryani, butter chicken, naan, and vegetarian curries.",
+      "location": "Mission District",
+      "opening_hours": "11:30-22:00",
+      "average_price": "$20-$35"
+    },
+    {
+      "restaurant_name": "Dragon Palace",
+      "city": "San Francisco",
+      "cuisine": "Chinese",
+      "description": "Popular Chinese restaurant specializing in dim sum, Peking duck, and seafood dishes.",
+      "location": "Chinatown",
+      "opening_hours": "10:00-22:00",
+      "average_price": "$18-$30"
+    },
+    {
+      "restaurant_name": "Green Bowl Cafe",
+      "city": "San Francisco",
+      "cuisine": "Healthy / Vegan",
+      "description": "Plant-based restaurant offering vegan bowls, smoothies, salads, and organic coffee.",
+      "location": "SoMa District",
+      "opening_hours": "08:00-20:00",
+      "average_price": "$12-$20"
+    },
+    {
+      "restaurant_name": "Casa Mexicana",
+      "city": "San Francisco",
+      "cuisine": "Mexican",
+      "description": "Traditional Mexican restaurant known for tacos, enchiladas, guacamole, and margaritas.",
+      "location": "Mission Street",
+      "opening_hours": "11:00-23:00",
+      "average_price": "$15-$28"
+    },
+    {
+      "restaurant_name": "Le Petit Paris",
+      "city": "San Francisco",
+      "cuisine": "French",
+      "description": "Elegant French restaurant offering croissants, escargot, steak frites, and fine desserts.",
+      "location": "Union Square",
+      "opening_hours": "09:00-22:00",
+      "average_price": "$35-$60"
+    }
+  ]
