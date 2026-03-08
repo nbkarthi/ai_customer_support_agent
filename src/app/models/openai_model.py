@@ -12,6 +12,6 @@ load_dotenv()
 
 ## Connect to OOlama model Qwen2.5-72b-instruct
 model = OllamaModel(
-    model_id="Qwen2.5-72b-instruct",
-    base_url="http://localhost:11434"
+    model_id="qwen2.5:7b-instruct",
+    host="http://localhost:11434",
 )

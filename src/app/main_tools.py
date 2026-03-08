@@ -3,7 +3,7 @@ from models import model
 from tools import get_weather, get_capital, get_population
 import logging
 
-logging.getLogger("strands").setLevel(logging.DEBUG)
+logging.getLogger("strands").setLevel(logging.INFO)
 # Sets the logging format and streams logs to stderr
 logging.basicConfig(
 format="%(levelname)s | %(name)s | %(message)s",
