@@ -7,5 +7,5 @@ requires-python = ">=3.12"
 dependencies = [
     "boto3>=1.42.63",
     "python-dotenv>=1.2.2",
-    "strands-agents[openai]>=1.29.0",
+    "strands-agents[ollama,openai]>=1.29.0",
 ]
