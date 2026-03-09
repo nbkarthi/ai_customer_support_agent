@@ -7,6 +7,8 @@ requires-python = ">=3.12"
 dependencies = [
     "boto3>=1.42.63",
     "faiss-cpu>=1.13.2",
+    "langfuse>=3.14.5",
+    "mcp[http]>=1.26.0",
     "python-dotenv>=1.2.2",
     "sentence-transformers>=5.2.3",
     "strands-agents[ollama,openai]>=1.29.0",
