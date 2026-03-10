@@ -1,3 +1,4 @@
+import tracing  # noqa: F401 - must be first to configure OTEL
 from mcp import stdio_client, StdioServerParameters
 from strands import Agent
 from strands.tools.mcp import MCPClient

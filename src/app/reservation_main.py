@@ -1,3 +1,4 @@
+import tracing  # noqa: F401 - must be first to configure OTEL
 from strands import Agent
 from models import model
 from tools import create_booking, delete_booking, get_booking, search_restaurants

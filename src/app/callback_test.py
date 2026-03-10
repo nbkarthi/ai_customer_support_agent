@@ -1,3 +1,4 @@
+import tracing  # noqa: F401 - must be first to configure OTEL
 import asyncio
 from strands import Agent
 from models import model
